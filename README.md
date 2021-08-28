@@ -55,3 +55,4 @@ These could be used for specific cases. A lot more that you can think of could b
 | 🔒 SECURITY:    | Improve security.                           |
 | ✏️ TEXTUAL:     | Textual improvements or additions.          |
 | 💾 DATABASE:    | Database-related improvements or additions. |
+| 🚧 WIP:         | Work in progress.                           |
